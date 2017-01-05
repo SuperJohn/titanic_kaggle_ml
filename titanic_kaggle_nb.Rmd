@@ -1,6 +1,9 @@
 ---
 title: "Titanic Kaggle Notebook"
-output: html_notebook
+output:
+  html_document: default
+  html_notebook: default
+  pdf_document: default
 ---
 Titanic: Machine Learning from disaster
 https://www.kaggle.com/c/titanic
